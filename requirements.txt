@@ -1,0 +1,7 @@
+install pandas
+install numpy   
+install matplotlib
+install streamlit
+install os
+install python-dotenv
+install requests
